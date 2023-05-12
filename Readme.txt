@@ -13,7 +13,7 @@ Deposit: Users can deposit money into their accounts.
 Withdrawal: Users can withdraw money from their accounts, as long as they have enough funds.
 Logout: Users can log out of their accounts.
 Contributing
-If you find any bugs or issues with the program, please create a new issue on the GitHub repository: https://github.com/Vignesh2828/atm-python
+If you find any bugs or issues with the program, please create a new issue on the GitHub repository: https://github.com/Vignesh2828/Python-Program
 
 You can also contribute to the program by submitting a pull request. Please ensure that your code follows PEP 8 style guidelines and includes test cases.
 
